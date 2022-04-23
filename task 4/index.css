@@ -1,0 +1,90 @@
+.button1{
+    cursor: pointer;
+    width:150px;
+    height: auto;
+    border: 5px;
+    border-style:groove;
+    display: flex;
+    flex-wrap: wrap;
+    padding: auto;
+    color: white;
+    background-color: orange;
+}
+.button2{
+    cursor: pointer;
+    width:150px;
+    height: auto;
+    border: 5px;
+    border-style:groove;
+    display: flex;
+    flex-wrap: wrap;
+    padding: auto;
+    color: white;
+    background-color: red;
+}
+.button3{
+    cursor: pointer;
+    width:150px;
+    height: auto;
+    border: 5px;
+    border-style:groove;
+    display: flex;
+    flex-wrap: wrap;
+    padding: auto;
+    color: white;
+    background-color: aqua;
+}
+.button4{
+    cursor: pointer;
+    width:150px;
+    height: auto;
+    border: 5px;
+    border-style:groove;
+    display: flex;
+    flex-wrap: wrap;
+    padding: auto;
+    color: white;
+    background-color: lightskyblue;
+}
+.button5{
+    cursor: pointer;
+    width:150px;
+    height: auto;
+    border: 5px;
+    border-style:groove;
+    display: flex;
+    flex-wrap: wrap;
+    padding: auto;
+    color: white;
+    background-color: plum;
+}
+.button1:hover{
+    color: black;
+    background-color: orange;
+}
+.button2:hover{
+    color: black;
+    background-color: red;
+}
+.button3:hover{
+    color: black;
+    background-color: aqua;
+}
+.button4:hover{
+    color: black;
+    background-color: lightskyblue;
+}
+.button5:hover{
+    color: black;
+    background-color: plum;
+}
+
+.container{
+    display: flex;
+    width:auto;
+    height: 95px;
+    padding: 20%;
+    border: 10px;
+    border-radius: 2px;
+    border-style: groove;
+}
